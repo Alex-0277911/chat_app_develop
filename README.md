@@ -1,6 +1,6 @@
 # chat_app_develop
 
-Dubyna Alexander
+Dubyna Olexander
 
 t0500277911@gmail.com
 
